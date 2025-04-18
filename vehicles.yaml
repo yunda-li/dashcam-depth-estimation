@@ -1,0 +1,8 @@
+train: C:/Schoolwork/CS585/Project/data_object/images/train
+val: C:/Schoolwork/CS585/Project/data_object/images/valid
+test: C:/Schoolwork/CS585/Project/data_object/images/test
+
+
+# Classes
+nc: 3  # number of classes
+names: ["Car", "Van", "Truck"]  # class names
